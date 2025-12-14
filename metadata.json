@@ -1,0 +1,5 @@
+{
+  "name": "ok lun",
+  "description": "Ứng dụng chuyển đổi văn bản thành giọng nói tốc độ cao sử dụng mô hình Google Gemini 2.5 mới nhất. Hỗ trợ đa ngôn ngữ, giọng đọc tự nhiên và xử lý văn bản dài mượt mà.",
+  "requestFramePermissions": []
+}
